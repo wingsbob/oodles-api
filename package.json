@@ -1,0 +1,21 @@
+{
+  "name": "oodles-api",
+  "version": "1.0.0",
+  "description": "An api to add oddles to any string",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "author": "Matthew Bull",
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-karma": "^2.0.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^1.0.2"
+  }
+}
